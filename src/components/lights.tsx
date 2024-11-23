@@ -14,7 +14,7 @@ const lights = () => {
         intensity: 100,
         decay: 2,
         penumbra: 0,
-        angle: 3,
+        angle: 0.8,
     });
     return (
         <>
